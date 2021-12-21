@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **time series analysis**
 
+- 🔬 Studying MS **@ METU in Industrial Engineering**
+
 - 💬 Ask me about anything **via email, linkedin etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/salih-salihoglu-1b0484b4/**
