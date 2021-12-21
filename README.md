@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **time series analysis**
 
-- 🔬 Studying MS **@ METU in Industrial Engineering**
+- 🔬 Studying MSc **@ METU in Industrial Engineering**
 
 - 💬 Ask me about anything **via email, linkedin etc.**
 
