@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **next destination prediction**
 
-- 🌱 I’m currently learning **time series analysis**
+- 🌱 I’m currently learning **RNN, LSTM, time series analysis**
 
 - 🔬 Studying MSc **@ METU in Industrial Engineering**
 
