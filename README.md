@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salih245" alt="salih245" /></a> </p>
 
-- 🔭 I’m currently working on **next destination prediction**
+- 🔭 I’m currently working on **a Multi-Agent Deep Reinforcement Learning framework for residential demand response, where appliance-level predictions inform cooperative control policies to shift loads and reduce peak energy demand**
 
-- 🌱 I’m currently learning **RNN, LSTM, time series analysis**
-
-- 🔬 Studying MSc **@ METU in Industrial Engineering**
+- 🔬 Studying PhD **@ University of Miami in Industrial and Systems Engineering**
 
 - 💬 Ask me about anything **via email, linkedin etc.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/salih-salihoglu-1b0484b4/**
+- 📫 How to reach me **https://www.linkedin.com/in/salih-salihoglu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
