@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salih Salihoglu</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salih245&label=Profile%20views&color=0e75b6&style=flat" alt="salih245" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salih245" alt="salih245" /></a> </p>
-
 - 🔭 I’m currently working on **a Multi-Agent Deep Reinforcement Learning framework for residential demand response, where appliance-level predictions inform cooperative control policies to shift loads and reduce peak energy demand**
 
 - 🔬 Studying PhD **@ University of Miami in Industrial and Systems Engineering**
